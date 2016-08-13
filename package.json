@@ -1,0 +1,13 @@
+{
+  "name": "SunnyServer",
+  "version": "1.0.0",
+  "description": " simple game server for node js 6",
+  "main": "index.js",
+  "author": "Naydenov Pavel",
+  "scripts": {},
+  "license": "none",
+  "devDependencies": {
+
+  }
+}
+
